@@ -6,7 +6,7 @@ height="3.5875in"}![](./myMediaFolder/media/image5.png){width="6.5in"
 height="2.5229166666666667in"}![](./myMediaFolder/media/image6.png){width="6.5in"
 height="3.5395833333333333in"}
 
-EC2
+# EC2
 
 ![](./myMediaFolder/media/image7.png){width="6.5in"
 height="3.720138888888889in"}
